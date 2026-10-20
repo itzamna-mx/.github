@@ -1,8 +1,10 @@
-# Itzamná
+<p align="center"><img src="logo.svg" width="120" alt="Itzamná"></p>
 
-**Los datos públicos de México, listos para la IA.**
+<h1 align="center">Itzamná</h1>
 
-Itzamná era el dios maya de la sabiduría; según la tradición, inventó la escritura y el calendario, la forma de dejar registro de lo que se sabe. Este proyecto hace lo mismo para los asistentes de IA: les da acceso a la información oficial de México, con la fuente y la fecha de cada dato.
+<p align="center"><b>Los datos públicos de México, listos para la IA.</b></p>
+
+Itzamná era el dios maya de la sabiduría; según la tradición, inventó la escritura y el calendario, la forma de dejar registro de lo que se sabe. La greca escalonada del logo es el *xicalcoliuhqui*, presente en templos de todo México. Este proyecto hace lo mismo para los asistentes de IA: les da acceso a la información oficial de México, con la fuente y la fecha de cada dato.
 
 ## Servidores MCP
 
