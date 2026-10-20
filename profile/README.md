@@ -33,4 +33,4 @@ Cada servidor conecta a Claude, ChatGPT, Gemini, Cursor o cualquier cliente MCP 
 
 ---
 
-Creado por [Iñaki Sobera Sotomayor](https://inakisobera.me) · [LinkedIn](https://www.linkedin.com/in/inakisobera/) · [GitHub](https://github.com/nanisadw3)
+Más sobre el proyecto: [inakisobera.me/itzamna](https://inakisobera.me/itzamna/) · Creado por [Iñaki Sobera Sotomayor](https://inakisobera.me) · [LinkedIn](https://www.linkedin.com/in/inakisobera/) · [GitHub](https://github.com/nanisadw3)
