@@ -4,7 +4,9 @@
 
 <p align="center"><b>Los datos públicos de México, listos para la IA.</b></p>
 
-Itzamná era el dios maya de la sabiduría; según la tradición, inventó la escritura y el calendario, la forma de dejar registro de lo que se sabe. La greca escalonada del logo es el *xicalcoliuhqui*, presente en templos de todo México. Este proyecto hace lo mismo para los asistentes de IA: les da acceso a la información oficial de México, con la fuente y la fecha de cada dato.
+Itzamná era el dios maya de la sabiduría; según la tradición, inventó la escritura y el calendario, la forma de dejar registro de lo que se sabe. Este proyecto hace lo mismo para los asistentes de IA: les da acceso a la información oficial de México, con la fuente y la fecha de cada dato.
+
+El logo es una greca escalonada, el *xicalcoliuhqui*, que aparece en templos de todo México.
 
 ## Servidores MCP
 
