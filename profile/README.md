@@ -15,7 +15,7 @@ Cada servidor conecta a Claude, ChatGPT, Gemini, Cursor o cualquier cliente MCP 
 | Servidor | Fuente | Estado |
 |---|---|---|
 | [mcp-banxico](https://github.com/nanisadw3/mcp-banxico) | Banco de México (SIE): tipo de cambio, inflación, UDIS, TIIE, reservas | ✅ En producción · [PyPI](https://pypi.org/project/mcp-banxico/) · endpoint remoto `https://banxico-mcp.duckdns.org/mcp` |
-| mcp-inegi | INEGI: indicadores económicos y directorio de negocios (DENUE) | 🔨 En construcción |
+| [mcp-inegi](https://github.com/itzamna-mx/mcp-inegi) | INEGI: población, inflación, empleo, PIB e IGAE por país, estado y municipio (directorio de negocios DENUE, próximamente) | ✅ En producción · [PyPI](https://pypi.org/project/mcp-inegi/) |
 | mcp-sat | SAT: estado de facturas (CFDI) y listas 69 y 69-B | 📋 Planeado |
 | mcp-gasolina | Precios de combustibles por estación | 📋 Planeado |
 
